@@ -1,14 +1,16 @@
 # testGit
-Jonathan
+<p>Jonathan</p>
 
-Jonathan
- Bastien
-Bastien le Newbie!!!
-Emily
+<p>Jonathan</p>
+<p>Bastien</p>
+<p>Bastien le Newbie!!!</p>
+<p>Emily</p>
 
-<p>Coucou</p>
+<p>Ce fut un plaisir et agréable de developper avec toi Emily!!!</p>
 
-<p>Emily et Jonathan</p>
+<p>et avec toi aussi Jonathan bien sur, merci de votre patience!</p>
 
-<p>Ca Marche!!!!</p>
+
+
+
 
